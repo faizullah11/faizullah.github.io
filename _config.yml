@@ -1,0 +1,11 @@
+title: Faiz Ullah # your name (or website title) here
+logo: "/profile.png?raw=true" # your photo (or logo) here
+description: > # your text below (remove <br> elements if you don't need line breaks)
+ Senior Hybrid Moblie App Engineer
+  <br><br>
+  <a href="mailto:faizullah11@gmail.com">faizullah11@gmail.com </a>
+  <br>
+  <a href="https://www.linkedin.com/in/faizullah11/">LinkedIn Profile</a>
+  <br>
+  <a href="https://www.gihub.com/faizullah11/">Gihub</a> 
+theme: jekyll-theme-minimal
