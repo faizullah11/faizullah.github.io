@@ -45,6 +45,37 @@ in javascript and start working in react native.
 
 ---
 
+## APPLICATIONS
+
+### **AICARE**
+### React native:(ios android)
+
+ A service provider mobile app to monitor patients with artificial camera and handle vedio stream alarms and audio control. 
+
+ This project uses ai camera of https://us.hikvision.com/en. 
+ ### **Physicalgold**
+### React Next:(ios android)
+
+This is also e-commerce app. My work was to fit bootstrap design and  integrate api’s data  with Graghql.
+At the I also improve the page-speed with lighthouse.
+
+
+### **S & H Electronics**
+###  React-Native :(ios android)
+
+This is e-commerce app. It provides online purchase facility to buyer.
+you can see on playstore with this link ----> <a herf="https://play.google.com/store/apps/details?id=com.sandhelectrical">S & H</a>
+
+### **EIGHTY 6PAY**
+### React-Native :(android)
+
+This is also e-commerce app. It provides online purchase facility to buyer.
+I add Wallet functionality in this app.
+you can see on playstore with this link ----> <a herf="https://play.google.com/store/apps/details?id=com.eightysix">Eight6 pay</a>
+
+
+---
+
 ## Education
 
 ### **BZU MULTAN UNIVERSITY**
