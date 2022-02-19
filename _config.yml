@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 title: Faiz Ullah # your name (or website title) here
 logo: "/profile.png?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
@@ -9,3 +10,6 @@ description: > # your text below (remove <br> elements if you don't need line br
   <br>
   <a href="https://www.gihub.com/faizullah11/">Gihub</a> 
 theme: jekyll-theme-minimal
+=======
+theme: jekyll-theme-minimal
+>>>>>>> c2ae506f1c9323bb4cb2b2ca77ebbb85c6552d84
