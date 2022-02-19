@@ -7,11 +7,15 @@ I am a Softare engineer with an experience of over 4 years. I have hands on expe
 ## Skills
 
 <p align='left'>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/2048px-HTML5_logo_and_wordmark.svg.png" alt="html" width="40" height="40">
-  <img src='https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/1200px-CSS3_logo_and_wordmark.svg.png' alt="css" width="40" height="40">
-  <img src='https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png' height='30' width='auto' alt="js">
-   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/1280px-React-icon.svg.png" alt="react" width="auto" height="40"/>
-   <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/>
+  <img src="https://d33wubrfki0l68.cloudfront.net/554c3b0e09cf167f0281fda839a5433f2040b349/ecfc9/img/header_logo.svg" alt="react native" width="40" height="40" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/1280px-React-icon.svg.png" alt="react" width="auto" height="40"/>
+  <img src="https://www.hostnextra.com/kb/wp-content/uploads/2020/12/easy-to-install-next-js-on-ubuntu-20-04.jpg" alt="next" width="40" height="40"/>
+  <img src='https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png' height='30' width='auto' alt="js"/>
+  <img src='https://logowik.com/content/uploads/images/flutter5786.jpg' alt="flutter" width="40" height="40"/>
+  <img src='https://nodejs.org/static/images/logo-hexagon-card.png' alt="flutter" width="40" height="40"/>
+ 
+
+ 
 </p>
 
 ---
